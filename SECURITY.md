@@ -6,7 +6,7 @@ Versions that are been checked and corrected:
 
 | Version(s) |      Supported     |
 | -------    | ------------------ |
-| 1.x        | :white_check_mark: |
+| 1.x.x      | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
@@ -21,7 +21,7 @@ Versiones que son revisadas y corregidas:
 
 | Versión(es)|      Soportada     |
 | -------    | ------------------ |
-| 1.x        | :white_check_mark: |
+| 1.x.x      | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
